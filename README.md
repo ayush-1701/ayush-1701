@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and Data Science!
 - 💻 I'm Good in Coding still trying to learn many new things! :) 
 - 🌱 I’m currently learning Machine Learning using Python 🐍
-- 📫 Reach me 👉 ayushkmr17@gmail.com
+- 📫 Reach me 👉 ayushkmr17@gmail.com || https://www.linkedin.com/in/ayushkr117/
 
 
 <!---
