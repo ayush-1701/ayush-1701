@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=ayush-1701.CharalambosIoannou)
+
 - 👋 Hi, I’m @ayush-1701
 - 👀 I’m interested in Data Analytics and Data Science!
 - 💻 I'm Good in Coding still trying to learn many new things! :) 
