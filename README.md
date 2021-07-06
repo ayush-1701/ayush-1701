@@ -3,7 +3,9 @@
 - 💻 I'm Good in Coding still trying to learn many new things! :) 
 - 🌱 I’m currently learning Machine Learning using Python 🐍
 - 📫 Reach me 👉 ayushkmr17@gmail.com || https://www.linkedin.com/in/ayushkr117/
-- 
+
+<h2>Skillset</h2>
+
 
 
 <!---
@@ -13,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ayush-1701&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ayush-1701&count_private=true&theme=dark&showicons=true)]()
 <br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1701&langs_count=5&theme=tokyonight)]()
