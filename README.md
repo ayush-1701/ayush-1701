@@ -21,10 +21,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate for DataScience Projects! ;)
 --->
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-1701&show_icons=true)
-
-
 <br><br>
 
 [![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ayush-1701&count_private=true&theme=tokyonight&show_icons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1701&langs_count=6&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-1701&langs_count=6&theme=tokyonight&show_icons=true)]()
