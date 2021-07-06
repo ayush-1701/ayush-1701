@@ -6,12 +6,11 @@
 
 <h2>Skillset</h2>
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-<i class="programming lang-ruby"></i>
-<i class="programming lang-javascript"></i>
-<i class="programming lang-cpp"></i>
-<i class="programming lang-typescript"></i>
-<i class="programming lang-python"></i>
-<i class="programming lang-kotlyn"></i>
+
+<i class="programming lang-cpp">C++</i>
+<i class="programming lang-c">C</i>
+<i class="programming lang-python">Python</i>
+<i class="programming lang-kotlyn">Kotlin</i>
 
 
 <!---
