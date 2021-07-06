@@ -6,13 +6,14 @@
 - 🌱 I’m currently learning Machine Learning using Python 🐍
 - 📫 Reach me 👉 ayushkmr17@gmail.com || https://www.linkedin.com/in/ayushkr117/
 
+<!--
 <h2>Skillset</h2>
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c" alt="c" height="40" style="vertical-align:top; margin:4px">
-</p>
+</p> -->
 
 <!---
 ayush-1701/ayush-1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
