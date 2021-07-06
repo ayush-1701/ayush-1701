@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=ayush-1701.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=ayush-1701.ayush-1701)
 
 - 👋 Hi, I’m @ayush-1701
 - 👀 I’m interested in Data Analytics and Data Science!
@@ -7,12 +7,7 @@
 - 📫 Reach me 👉 ayushkmr17@gmail.com || https://www.linkedin.com/in/ayushkr117/
 
 <h2>Skillset</h2>
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
-<i class="programming lang-cpp">C++</i>
-<i class="programming lang-c">C</i>
-<i class="programming lang-python">Python</i>
-<i class="programming lang-kotlyn">Kotlin</i>
 
 
 <!---
